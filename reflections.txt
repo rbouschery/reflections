@@ -36,3 +36,7 @@ The staging area is a workspace to temporarily hold changes before they're commi
 9. How can you use the staging area to make sure you have one commit per logical change?
 
 You can see all the changes before commiting them, remove changes again before commiting them and re-structure the commits.
+
+10. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Whenever you want to create a version of your code and are not sure if it will end up in the final version at some point.
