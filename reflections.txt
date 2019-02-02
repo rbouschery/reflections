@@ -32,3 +32,5 @@ It creates the a .git file and creates the underlying structure to now track cha
 8. How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is a workspace to temporarily hold changes before they're commited to the repository. This makes it easier to track single changes.
+
+9. 
