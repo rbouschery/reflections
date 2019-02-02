@@ -33,4 +33,6 @@ It creates the a .git file and creates the underlying structure to now track cha
 
 The staging area is a workspace to temporarily hold changes before they're commited to the repository. This makes it easier to track single changes.
 
-9. 
+9. How can you use the staging area to make sure you have one commit per logical change?
+
+You can see all the changes before commiting them, remove changes again before commiting them and re-structure the commits.
